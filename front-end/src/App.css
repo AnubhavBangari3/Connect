@@ -1,0 +1,517 @@
+.main{
+    background-color:#a0d2eb;
+    height:100vh;
+}
+.login{
+    
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+    background-color: #fff5d7;
+    
+}
+.login-title{
+    margin-top:70px;
+}
+
+
+.login-form {
+    width:40%;
+    margin: 20px auto;
+    
+}
+.login-form  button{
+    width:100%;
+}
+.quote{
+    margin-top:20px;
+    display:flex;
+    justify-content:center;
+    text-align:center;color:white;
+
+}
+.main-register{
+    background-color:#c7af6b;
+    height:100vh;
+}
+
+.register{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+
+.register-title{
+    margin-top:50px;
+}
+
+.Profile{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+
+.me{
+    width:400px;
+    height:200px !important;
+    margin:0 auto;
+}
+
+.uniqueSlug{
+    color:blue;
+}
+
+.about-t{
+    width:100%;
+}
+.upImage{
+    width:90%;
+    height:200px !important;
+    margin: 0 auto;
+}
+
+
+.createPost{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.allPosts{
+    
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+
+.singlePost{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+.post-content-head{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.friendRequestReceived{
+    
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+
+
+
+.my-post{
+    height:450px;
+   width:60% !important;
+   margin:0 auto;
+}
+
+.top-post{
+    display:flex;
+    justify-content:space-between;
+}
+
+
+.photo-prof-friend {
+    height:80px !important;
+    width:120px;
+    margin:0 auto;
+}
+.allfriends{
+    background-color:#9fd3c7;
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-wrap:wrap;
+}
+.post-content-f{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.myCon{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+.photo-prof{
+    height:60px;
+    width:80px;
+}
+
+.prof-post{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.mineOptions{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    background-color: gray;
+
+}
+.allphoto{
+    width:50%;
+    height:300px;
+}
+
+.allProfiles{
+    width:80%;
+    margin:0 auto;
+    
+}
+
+.allbuttons{
+    width:60%;
+    margin:0 auto;
+    display:flex;
+    justify-content: space-between;
+    background-color: #a0d2eb;
+}
+
+.allbuttons Button{
+    flex:1;
+    margin:0 5px;
+}
+
+.comment{
+    width:80%;
+    margin:0 auto;
+}
+
+.scroll-container{
+  margin:0 auto;
+  width: 80%; /* Adjust the width as needed */
+  height: 600px; /* Adjust the height as needed */
+  overflow: auto;
+}
+
+.lp{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+}
+
+.lifeplan{
+    display:flex;
+    justify-content:space-evenly;
+    text-align:center;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+
+
+
+.lpi{
+    width:30%;
+}
+
+.lpi img{
+ width:100%;
+ height:300px;
+}
+
+.feature{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+}
+
+.cal{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+}
+
+.createLP{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+}
+
+.active-Plans{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-wrap:wrap;
+}
+
+.aPlan{
+    border: 1px solid black; 
+    width:300px;
+}
+
+.allfeatures{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+    
+}
+.btn.creaate-active-plan{
+    width:60%;
+    margin:0 auto;
+    background-color:#007cb9;
+    margin-bottom:5px;
+}
+.ap{
+    display:flex;
+    justify-content: center;
+    text-align:center;
+}
+
+.activePlan{
+    background-color:green;
+    color:white;
+}
+
+.activate-the-plan{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+
+.activate-the-plan Button{
+    margin-top:30px;
+}
+
+.onemonthvision{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+
+}
+
+.textonemonth{
+    width:60%;
+    height:200px;
+}
+
+.visionBoard{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+
+.seeYourVision{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+
+.vis{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+
+.vis Img{
+    width:40%;
+    height:40%;
+    margin:0 auto;
+}
+
+.generateVision{
+    display:flex;
+    justify-content:center;
+
+}
+
+.messageR{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+}
+
+.messageS{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+}
+
+.areaOfinterest{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-wrap:wrap;
+}
+
+.friend-photo{
+    width:100px;
+}
+
+.messaging-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+.messaging-functionality{
+    display:flex;
+}
+  .friend-list {
+    width:25%;
+    flex: 1;
+    padding-right: 20px;
+    max-height: 600px;
+    overflow-y: auto; /* Add scroll bar to the friend list */
+    background-color:#eaf6f6;
+  }
+  
+.chat-section{
+    width:70%;
+    background-color:#feffdf;
+}
+.chat-section2{
+    width:70%;
+    background-color:#fdffcd;
+}
+
+
+  .message-left{
+    width:40%;
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+  }
+
+  .chat-top{
+    width:20%;
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+
+  }
+
+  .friend-chat-photo{
+    width:75px;
+  }
+
+  .sent-message{
+    width:100%;
+    height:50px;
+    margin:0 auto;
+  }
+
+  .chat-bottom {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    max-height: 400px;
+    overflow: auto; /* Add this property to make the section scrollable */
+    padding: 10px; /* Add some padding to the chat content area for spacing */
+   
+  }
+
+  .send-button{
+   display:flex;
+   justify-content:center;
+  }
+
+
+
+.allpostsofuser{
+    display:flex;
+    justify-content:center;
+    background-color:#ececec;
+    
+}
+
+.allgrid{
+    width:80%;
+    display:flex;
+    flex-wrap:wrap;
+}
+.allposts-prof{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+.allposts-phots{
+height:150px;
+width:250px;
+}
+
+.all-photo-prof{
+    width:40px;
+    height:30px;
+}
+
+.name_and_photo{
+    display:flex;
+    justify-content:flex-start;
+
+}
+
+.posts-insde-modal{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+    height:300px;
+}
+
+.posts-insde-modal-image{
+    height:250px;
+    margin-bottom:15px;
+}
+
+.posts-insde-modal-foot{
+    display:flex;
+    justify-content:space-between;
+    text-align:center;
+    padding:5px;
+}
+
+.singleProfiles{
+    color:black;
+}
+
+.singleProfiles2{
+    color:white;
+}
+
+.not-active-heading{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+}
+.not-active{
+    background-color:white;
+}
+.notactivePlan{
+    background-color:#77628c;
+    color:white;
+    width:300px;
+}
+
+.not-active-plan{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    flex-direction:column;
+}
+
+.error-message{
+    background-color:red;
+    color:white;
+}

@@ -1,0 +1,128 @@
+22-1-23
+
+1) DRF and cors setup
+2) Postgresql connected
+3) React app created
+
+26-1-23
+To DO
+Front end
+1) Login Layout Done
+2) Registration Layout Done
+
+11feb
+Back end
+1) Think about the parameters to  be in the model
+--Signals for profile--Connect front end and backend --Slug use for creation DONE
+
+17feb
+
+- Registeration Done
+
+18 Feb
+- Prevent registration if fields are empty Done
+
+1 march
+- Login from backend using Token(Check out these links). If not able to think anything then decode token for login
+
+https://stackoverflow.com/questions/71920941/how-to-obtain-a-token-for-a-user-with-payload-using-django-simple-jwt
+
+May
+- Login validation
+- refresh token
+- profile page
+ 
+Work on update profile logic in react Done
+
+
+-Update Image Done
+
+11May Task
+-Post creation  and fetch post DONE
+
+
+12 to 14 May
+-delete Post
+------------------------DONE-----------------
+18May - 24May
+-Friend Request Logic
+
+-send request (I am sending wrong id in react)I will chck that today.* Done
+1) Show all Profiles except those who are freinds, or those who have sent freind request. Don;t show the current profile in that.
+/use carousel/ Improve the carousel
+2) Accept or reject friend request *Done
+
+
+25May
+   
+ -Remove friend *Done
+ -Allowed to like(no dislike allowed) *Done
+
+On 30 May
+
+- COMMENTS posting **done
+1st July 
+-display comments **Done
+
+12 to 15July
+- Life plan 
+  -Write views and reacts js codes for all plans *Done
+
+15 July 
+ - Style plans and proceed forward.
+
+20 July
+- check the get request error in no active plans **Done (It can be improved)
+ 
+23 July
+- Vision Board (Add logic for 10 posts only and pdf) **Done
+
+24 - 30 july
+
+The below option should be available in My Profile.
+-Area of Interest(Eg Sports,meditation etc) - POST,GET and Delete **done
+-In area of Interests the user would get the option to select 10 area of interests. **done
+
+- Messaging feature.
+In messaging use DRF,react. **done
+
+4-6 August
+-In friend section don't show those profile which are friends to the current user. **done
+
+5-6 August
+--------------
+-friends post + my posts **done
+-All Posts **done
+-Profile for friend - correct area of interests
+-Single Profile **done
+
+7 - 10 August
+
+Profile send should show already sent if request is sent **done
+12-13 Aug
+Matchmaking **done
+-area of interest
+Create the model for it.
+And while writing the function remeber to add tags for the matching percentage.
+And If the area of interest changes then the matching percentage should automatically be updated.
+--------------
+13-15 Aug
+- If Vision Plan is over then make a backup for storing it as previos plans **done
+
+16 - 18 Aug
+-For single Profile - if profile === single profile then direct to profile else direct to profile/id **done
+
+- Write a logic in view for not showing create option in react **done
+
+
+
+------------------------------------------------------------------------------------
+Till 29 August
+
+-Improve Front end
+-Password and profile validation
+-Remove reload from all the components and try to refresh without reloading the page **done
+
+Documentationsss
+
+- chatbot for 1)Messages 2) Suggestion Life Plan 3) Matching Advice 4)Group advice
