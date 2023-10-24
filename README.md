@@ -3,7 +3,7 @@
 
 Its a social media website made using Django Rest Framework and React.
  
-**Login And Register -**
+**Login And Register-**
 
 User will be allowed to create an account
 
