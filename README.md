@@ -3,7 +3,7 @@
 
 Its a social media website made using Django Rest Framework and React.
  
-**Login And Register - **
+**Login And Register -**
 
 User will be allowed to create an account
 
@@ -11,7 +11,7 @@ User will be allowed to login with the username
 
 If the entered details are correct then the user will be redirected towards Profile Page
 	
-**Profile functionalities **-
+**Profile functionalities-**
 
 Update Profile details and Images
 
@@ -54,6 +54,7 @@ UI is different
 
 
 **Friends Suggestions-**
+
 It will show the list of Profiles.
 
 **Life Plan**
