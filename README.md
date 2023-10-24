@@ -2,15 +2,15 @@
 # Connect
 Its a social media website made using Django Rest Framework and React.
  
-#CONNECT APP
+CONNECT APP
 
-	#Login and register
+#Login and register
 
 User will be allowed to create an account
 User will be allowed to login with the username
 If the entered details are correct then the user will be redirected towards Profile Page
 	
-  #Profile functionalities -
+#Profile functionalities -
 
 Update Profile details and Images
 Select Area Of interests (Only 10)
