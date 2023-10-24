@@ -3,8 +3,7 @@
 
 Its a social media website made using Django Rest Framework and React.
  
-Login And Register
-
+**Login And Register - **
 
 User will be allowed to create an account
 
@@ -12,7 +11,7 @@ User will be allowed to login with the username
 
 If the entered details are correct then the user will be redirected towards Profile Page
 	
-Profile functionalities -
+**Profile functionalities **-
 
 Update Profile details and Images
 
@@ -31,9 +30,9 @@ Life Plan - Contains all areas of life plans
 
 Inbox - Messages
 
-#My Connections - Will show the friends of the user
+My Connections - Will show the friends of the user
 
-FRIENDS POSTS
+**FRIENDS POSTS**
 	
 Users are allowed to like the Posts of their friends.
 
@@ -43,7 +42,7 @@ If the post is created by the currently logged in user then he/she have the opti
 
 On clicking on Comment Users are allowed to Post their Comments.
 
-#ALL POSTS
+**ALL POSTS**
 
 It contains the same functionalities as the Friends Posts.
 
@@ -54,9 +53,10 @@ Delete option for post is not allowed
 UI is different
 
 
-Friends Suggestions
+**Friends Suggestions-**
+It will show the list of Profiles.
 
-Life Plan
+**Life Plan**
 
 It contains 12 areas of Life.
 
@@ -86,11 +86,11 @@ On creating any Plan.
 Users are allowed to generate PDFs of their goals.
 
 
-Messages Received
+**Messages Received**
 
 On clicking on any of the friends - the chats would be shown
 
-My Connections 
+**My Connections**
 
 Remove will unfriend that user.
 
