@@ -1,101 +1,74 @@
 
 # Connect
 
-Its a social media website made using Django Rest Framework and React.
+**Description**
+
+Connect is a dynamic social media platform designed to assist individuals in crafting a comprehensive life plan while fostering connections with like-minded people. 
+
+**Technology Stack:** Django Rest Framework (DRF), React, Bootstrap, PostgreSQL
+
+**Functionality Overview:**
  
-**Login And Register-**
+**1.Login And Register-**
 
-User will be allowed to create an account
-
-User will be allowed to login with the username
-
-If the entered details are correct then the user will be redirected towards Profile Page
+Users can effortlessly create an account.
+Login using their username with a secure authentication process(JWT Token authentication).
+Successful login directs users to their personalized Profile Page.
 	
-**Profile functionalities-**
+**2.Profile functionalities-**
 
-Update Profile details and Images
-
-Select Area Of interests (Only 10)
+Users can update profile details and showcase their images.
+Choose up to 10 areas of interest that define their passions and preferences.
 	
 
-MyProfile - Contains Profile Functionalities
+**3.MyProfile**
 
-Friends Posts - Will show all the Posts of Users friends
+Central hub containing all profile functionalities.
 
-All Posts- will show all Posts created by users in Connect
+**4.Friends Posts:**
 
-Friend Suggestions - For Connecting with friends
+Displays posts from the user's friends.
+Users can 'like' friends' posts with a one-time restriction, and delete their own posts.
+Users can engage in conversations by posting comments.
 
-Life Plan - Contains all areas of life plans
+**5.All Posts:**
 
-Inbox - Messages
+Similar to Friends Posts with variations in UI.
+Users can 'like' and comment on posts, but the delete option is restricted.
 
-My Connections - Will show the friends of the user
+**6.Friend Suggestions:**
 
-**FRIENDS POSTS**
-	
-Users are allowed to like the Posts of their friends.
+Presents a list of suggested profiles based on shared interests.
+Facilitates the process of connecting with potential friends.
 
-If the Post is liked then they are not allowed to like again(Dislike option is not there)
+**7.Life Plan:**
 
-If the post is created by the currently logged in user then he/she have the option to delta the post. [Update Post option is not provided]
+Comprises 12 life areas for users to set plans.
+Plans can span durations of 1 month to 10 years.
+Prevents users from creating overlapping plans, ensuring focused goal-setting.
 
-On clicking on Comment Users are allowed to Post their Comments.
+**8.Inbox:**
 
-**ALL POSTS**
+A dedicated space for private messages between users.
 
-It contains the same functionalities as the Friends Posts.
+**9. My Connections:**
 
-There is only two difference 
+Displays the user's friends.
+Allows users to remove connections, maintaining control over their network.
 
-Delete option for post is not allowed
+**10. Matching Algorithm:**
 
-UI is different
+Friend suggestions and connections are determined based on shared areas of interest chosen in the Profile section.
 
+**11.PDF Goal Generation:**
 
-**Friends Suggestions-**
-
-It will show the list of Profiles.
-
-**Life Plan**
-
-It contains 12 areas of Life.
-
-Users are allowed to choose Plans in these areas.
-
-Plans options -
-
-1 month
-
-6 months
-
-1 year
-
-3 year
-
-5 year
-
-10 year
+Users can generate PDFs encapsulating their life plans, fostering tangible goal-setting.
 
 
-If the 1 month plan is already active then the user will not be allowed to create another 1 month plan.
 
-The above functionality is applicable for all the plans.
+**12.Messages Received:**
 
-On creating any Plan.
+Clicking on a friend reveals their chat history, promoting seamless communication.
 
-Users are allowed to generate PDFs of their goals.
-
-
-**Messages Received**
-
-On clicking on any of the friends - the chats would be shown
-
-**My Connections**
-
-Remove will unfriend that user.
-
-Matching is calculated on the basis of Area of interests which was chosen in the Profile section.
-
-
+**"Aim of Connect is to create an interactive platform that not only facilitates social connections but empowers users to envision and work towards their life goals"**
 
