@@ -11,6 +11,11 @@ Connect is a dynamic social media platform designed to assist individuals in cra
  
 **1.Login And Register-**
 
+![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/4c876ce7-bf30-4de3-a1e1-27eea4e488f5)
+
+![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/67b73b2e-c6ad-42b4-97c0-20b75ca7b5f4)
+
+
 Users can effortlessly create an account.
 Login using their username with a secure authentication process(JWT Token authentication).
 Successful login directs users to their personalized Profile Page.
