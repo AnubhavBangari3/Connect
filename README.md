@@ -18,16 +18,21 @@ Connect is a dynamic social media platform designed to assist individuals in cra
 
 
 Users can effortlessly create an account.
+
+
 Login using their username with a secure authentication process(JWT Token authentication).
+
+
 Successful login directs users to their personalized Profile Page.
 	
 **2.Profile functionalities-**
 
 Users can update profile details and showcase their images.
-Choose up to 10 areas of interest that define their passions and preferences.
+
 
 ![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/fb184e99-935e-49c5-9c9d-aab2f03c2ec5)
 
+Choose up to 10 areas of interest that define their passions and preferences.
 
 ![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/151da8a4-9988-46e0-b00a-3dec3ee76570)
 
@@ -40,7 +45,11 @@ Central hub containing all profile functionalities.
 **4.Friends Posts:**
 
 Displays posts from the user's friends.
+
+
 Users can 'like' friends' posts with a one-time restriction, and delete their own posts.
+
+
 Users can engage in conversations by posting comments.
 
 ![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/7652944c-150e-48bf-8b72-4cd5d17adce4)
@@ -53,7 +62,11 @@ Users can engage in conversations by posting comments.
 **5.All Posts:**
 
 Similar to Friends Posts with variations in UI.
+
+
 Users can 'like' and comment on posts, but the delete option is restricted.
+
+
 ![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/dc7363a5-5243-4e72-97aa-90c5ec51b53d)
 
 
@@ -67,6 +80,8 @@ Users can 'like' and comment on posts, but the delete option is restricted.
 **6.Friend Suggestions:**
 
 Presents a list of suggested profiles based on shared interests.
+
+
 Facilitates the process of connecting with potential friends.
 
 ![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/13102a41-8cbf-4090-97ec-7c56aaa10724)
@@ -76,7 +91,11 @@ Facilitates the process of connecting with potential friends.
 **7.Life Plan:**
 
 Comprises 12 life areas for users to set plans.
+
+
 Plans can span durations of 1 month to 10 years.
+
+
 Prevents users from creating overlapping plans, ensuring focused goal-setting.
 
 ![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/5b6f60b3-1f5e-44d1-9e83-eff92bac5070)
@@ -116,6 +135,8 @@ Clicking on a friend reveals their chat history, promoting seamless communicatio
 **9. My Connections:**
 
 Displays the user's friends.
+
+
 Allows users to remove connections, maintaining control over their network.
 
 ![image](https://github.com/AnubhavBangari3/Connect/assets/68240739/6dfc3b18-6f71-48f4-b74f-d48548480d00)
